@@ -24,12 +24,6 @@ layout: intro
 
 # Seonglae Cho
 
-<div class="leading-8 opacity-80">
-Vue core team member and Vite team member.<br>
-Creator of VueUse, i18n Ally and Type Challenges.<br>
-A fanatical full-time open sourceror.<br>
-</div>
-
 <div class="my-10 grid grid-cols-[40px,1fr] w-min gap-y-4">
   <radix-icons-github-logo class="opacity-50"/>
   <div><a href="https://github.com/seonglae" target="_blank">seonglae</a></div>

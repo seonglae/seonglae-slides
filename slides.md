@@ -1,18 +1,19 @@
 ---
 theme: default
 highlighter: shiki
+background: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200
 ---
 
-# Welcome to Slidev
+# Seonglae
 
-Presentation slides for developers
+Develop in Seoul
 
 
 ---
 layout: center
 ---
 
-# What is Slidev?
+# Seongland
 
 Slidev is a slides maker and presenter designed for developers, consist of the
 following features

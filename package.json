@@ -1,4 +1,5 @@
 {
+  "name": "seongland-slides",
   "private": false,
   "scripts": {
     "dev": "slidev --open",
@@ -9,6 +10,5 @@
     "@slidev/cli": "^0.6.3",
     "@slidev/theme-default": "^0.6.3",
     "@slidev/theme-seriph": "^0.6.3"
-  },
-  "name": "seongland-slides"
+  }
 }

@@ -73,7 +73,7 @@ layout: center
 ---
 
 # Tech Stacks
-All knowledges are organized in [Wiki](https://doc.seongland.com)
+All knowledges are organized in own [Wiki](https://doc.seongland.com)
 
 <p><strong>Infrastructure</strong> -
 <a href="https://doc.seongland.com/GCP-dc29aee7d3da4cfbaed3f8bce47e8424">GCP</a>,

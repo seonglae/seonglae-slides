@@ -1,1 +1,1 @@
-/slides.md
+slides.md

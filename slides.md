@@ -46,7 +46,7 @@ Simple and Kind is my Software's Motto
 <td ><a href="https://point.seongland.com">☁️Point-Land</a></td>
 <td ><a href="https://seongland.medium.com/"><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-black?style=round-square&amp;logo=medium&amp;logoColor=white" /></a></td>
 <td ><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter">💻VSCode Intuiter</a></td>
-<td ><a href="https://github.com/seonglae/nuxtra">🔼Nextra</a></td>
+<td ><a href="https://github.com/seonglae/nextra">🔼Nextra</a></td>
 <td ><a href="https://github.com/seonglae/layermap">🗺️Layermap</a></td>
 </tr>
 <tr>

@@ -39,21 +39,21 @@ Simple and Kind is my Software's Motto
 <td ><a href="https://www.seongland.com">🌍Seong-Land</a></td>
 <td ><a href="https://doc.seongland.com"><img alt="Notion Badge" src="https://img.shields.io/badge/Notion-white?style=round-square&amp;logo=notion&amp;logoColor=black" /></a></td>
 <td ><a href="https://github.com/seonglae/intuiter">🖥️Intuiter</a></td>
-<td ><a href="https://github.com/seonglae/nuxt-ts-template">🔺Nuxt TS</a></td>
+<td ><a href="https://github.com/seonglae/nuxtify">🔺Nuxtify</a></td>
 <td ><a href="https://github.com/seonglae/layerspace">☁️Layerspace</a></td>
 </tr>
 <tr>
 <td ><a href="https://point.seongland.com">☁️Point-Land</a></td>
 <td ><a href="https://seongland.medium.com/"><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-black?style=round-square&amp;logo=medium&amp;logoColor=white" /></a></td>
 <td ><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter">💻VSCode Intuiter</a></td>
-<td ><a href="https://github.com/seonglae/next-ts-template">🔼Next js</a></td>
+<td ><a href="https://github.com/seonglae/nuxtra">🔼Nextra</a></td>
 <td ><a href="https://github.com/seonglae/mapspace">🗺️Layermap</a></td>
 </tr>
 <tr>
 <td ><a href="https://live.seongland.com">📺Live-Land</a></td>
 <td ><a href="https://www.linkedin.com/in/seonglae/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=round-square&amp;logo=LinkedIn&amp;logoColor=white" /></a></td>
 <td ><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal">🖤One Dark Teal</a></td>
-<td ><a href="https://github.com/seonglae/react-js-template">⚛️React Create App</a></td>
+<td ><a href="https://github.com/seonglae/reacterial">⚛️Reacterial</a></td>
 <td ></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ All knowledges are organized in own [Wiki](https://doc.seongland.com)
 layout: center
 ---
 
-<h1 align="center">Seonglae</h1>
+<h1 >Seonglae</h1>
 
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74580f20-3ef3-4fac-b1b0-361878f03d31%2Ffavicon.png?table=block&id=8297970a-a588-4685-9b39-f8c1e4d6323f&width=820&userId=cc6eaf5c-fcd5-409e-a6df-675cb86c358f&cache=v2" class="rounded-full w-40"/>
 

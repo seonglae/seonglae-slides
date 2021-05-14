@@ -60,7 +60,7 @@ Simple and Kind is my Software's Motto
 <td ><a href="https://account.seongland.com">✋Account-Land</a></td>
 <td ><a href="https://www.facebook.com/profile.php?id=100006296858033"><img alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877f2?style=round-square&amp;logo=facebook&amp;logoColor=white" /></a></td>
 <td ><a href="https://github.com/seonglae/basher">🖱️Basher</a></td>
-<td ><a href="https://github.com/seonglae/vitepress-template">💡Vitepress</a></td>
+<td ><a href="https://github.com/seonglae/windipress">💡Windipress</a></td>
 <td ></td>
 </tr>
 </tbody>

@@ -1,8 +1,11 @@
 ---
 theme: default
 highlighter: shiki
-background: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200
+background: >-
+  https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200
+title: Seonglae
 ---
+
 # Seonglae
 
 Develop in Seoul
@@ -16,7 +19,9 @@ Develop in Seoul
   </div>
 </div>
 
-
+<!--
+sad
+-->
 
 ---
 layout: center

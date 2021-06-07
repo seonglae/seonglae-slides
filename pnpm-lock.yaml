@@ -141,7 +141,7 @@ packages:
       '@antfu/utils': 0.1.6
       '@slidev/parser': 0.19.6
       '@slidev/types': 0.19.6
-      '@vueuse/core': 5.0.0_vue@3.0.11
+      '@vueuse/core': 5.0.1_vue@3.0.11
       '@vueuse/head': 0.6.0_vue@3.0.11
       '@vueuse/motion': 1.5.6_vue@3.0.11
       codemirror: 5.61.1
@@ -294,10 +294,10 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/core/5.0.0_vue@3.0.11:
-    resolution: {integrity: sha512-//QyV6X0e1hnfptpDakZba8WYNNeBVBRB9+33C7Sk9iYcevfZeAXCFbb9CRE4TajC4QTOQRBEDnWoCkZI8YAgg==}
+  /@vueuse/core/5.0.1_vue@3.0.11:
+    resolution: {integrity: sha512-hzcyYNvW1p9ZEwm+oBaWrHgGx6S93pJBiXLZUj2pgCNiJZjaedoePT9xzesi1SBxeKcYxwToaTISLeKdE4VKeg==}
     dependencies:
-      '@vueuse/shared': 5.0.0_vue@3.0.11
+      '@vueuse/shared': 5.0.1_vue@3.0.11
       vue-demi: 0.9.1_vue@3.0.11
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -336,8 +336,8 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/shared/5.0.0_vue@3.0.11:
-    resolution: {integrity: sha512-YzokofbZGs6tAIObCNDh4F9r+N0PdvWsRlBIxHpfkec9HVQj5mIuPPSgt3kkGC4LOToo6An6EdDJMYoVlxLhkQ==}
+  /@vueuse/shared/5.0.1_vue@3.0.11:
+    resolution: {integrity: sha512-/+kRII9chn45PhFfRuPVbSQApJHhhqXFhPrWjnYKckMfQE9ZOuNMb1bmQnDTqzuNkoS/ENeHBMq0rnV/cfz/3Q==}
     dependencies:
       vue-demi: 0.9.1_vue@3.0.11
     transitivePeerDependencies:

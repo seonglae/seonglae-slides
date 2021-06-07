@@ -1,14 +1,14 @@
 {
-  "name": "seongland-slides",
-  "private": false,
+  "name": "seonglide",
+  "license": "MIT",
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.19.6",
-    "@slidev/theme-default": "^0.19.1",
-    "@slidev/theme-seriph": "^0.19.1"
+    "@slidev/cli": "^0.19.1",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
   }
 }

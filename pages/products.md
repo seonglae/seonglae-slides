@@ -1,5 +1,6 @@
 ---
 title: Products
+layout: center
 ---
 
 # My Products

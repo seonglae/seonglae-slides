@@ -1,5 +1,6 @@
 ---
 title: Information
+layout: center
 ---
 
 <h1 >Seonglae</h1>

@@ -1,5 +1,6 @@
 ---
 title: Stacks
+layout: center
 ---
 
 # Tech Stacks

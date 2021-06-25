@@ -1,5 +1,6 @@
 # Seonglae Slide
 
+[Seonglae Slides Live](https://seonglae-slides.vercel.app)
 
 # Dev
 ```

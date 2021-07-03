@@ -14,7 +14,7 @@ All knowledges are organized in own [Wiki](https://doc.seongland.com)
 <p><strong>DBMS</strong> -
 <a href="https://doc.seongland.com/mongoDB-2444695fc9c64c75b982098bbb93b5e1">MongoDB</a>,
 <a href="https://doc.seongland.com/PostgreSQL-3ae3f466dca04db5a5e1d1f8560f1cfb">PostgreSQL</a>,
-<a href="https://doc.seongland.com/MySQL-baf7441d97e54fb08d931374e9afdfbe">MariaDB</a></p>
+<a href="https://doc.seongland.com/Redis-0160526170bd4e63a8d0963c98c09fc5">Redis</a></p>
 <p><strong>Language</strong> -
 <a href="https://doc.seongland.com/JavaScript-d8251729bdf14178bd7f08044cd0810a">Javascript</a>,
 <a href="https://doc.seongland.com/Typescript-c30005ca7aeb48189fb2fbf9acad81e3">Typescript</a>,

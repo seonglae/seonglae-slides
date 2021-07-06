@@ -1,9 +1,9 @@
 ---
-title: Stacks
+title: Knowledge Sharing
 layout: center
 ---
 
-# Tech Stacks
+# Knowledge Sharing
 
 All knowledges are organized in own [Wiki](https://doc.seongland.com)
 

@@ -11,11 +11,11 @@ background:
 <img src="https://github.com/seonglae/seonglae/raw/release/seongland.gif" class="w-200 mx-auto"/>
 
 
-<div class="grid w-112 mx-auto">
-<h1 >Develop in Seoul</h1>
+<div class="grid w-80 mx-auto mt-6" style="font-weight: bold">
+<h1 >SEONGLAE</h1>
 </div>
-<div class="grid w-35 mx-auto">
-<h2 >Seonglae</h2>
+<div class="grid w-60 mx-auto">
+<h2 >Develop in Seoul</h2>
 </div>
 
 

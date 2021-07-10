@@ -5,9 +5,18 @@ background:
   https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200
 ---
 
-# Seonglae
 
-Develop in Seoul
+
+
+<img src="https://github.com/seonglae/seonglae/raw/release/seongland.gif" class="w-200 mx-auto"/>
+
+
+<div class="grid w-112 mx-auto">
+<h1 >Develop in Seoul</h1>
+</div>
+<div class="grid w-35 mx-auto">
+<h2 >Seonglae</h2>
+</div>
 
 
 <div class="abs-bl mx-14 my-12 flex">

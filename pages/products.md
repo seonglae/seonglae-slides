@@ -4,7 +4,9 @@ layout: center
 ---
 
 # My Products
+
 Simple and Kind is my Software's Motto
+
 <table >
 <thead>
 <tr>

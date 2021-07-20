@@ -43,7 +43,7 @@ Simple and Kind is my Software's Motto
 <td align="center"><a href="https://www.facebook.com/profile.php?id=100006296858033"><img alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877f2?style=round-square&amp;logo=facebook&amp;logoColor=white" /></a></td>
 <td align="center"><a href="https://github.com/seonglae/radiobird">🖱️Radiobird</a></td>
 <td align="center"><a href="https://github.com/seonglae/windipress">🎫Windipress</a></td>
-<td align="center"><a href="https://github.com/seonglae/danding-button">🌐Dancing Button</a></td>
+<td align="center"><a href="https://github.com/seonglae/dancing-button">🌐Dancing Button</a></td>
 </tr>
 </tbody>
 

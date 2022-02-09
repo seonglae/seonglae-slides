@@ -7,8 +7,11 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "*",
+    "@slidev/cli": "0.28.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/radix-icons": "^1.0.3"
   }
 }

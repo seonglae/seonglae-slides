@@ -9,7 +9,7 @@ layout: center
 <img src="https://storage.googleapis.com/seonglae/photo/personal/2022/round/far.png" class="rounded-full"/>
 </div>
 
-<img src="https://github.com/seonglae/seonglae/raw/release/seongland.gif" class="my-5 w-100"/>
+<img src="https://github.com/seonglae/seonglae/blob/main/seongland.gif?raw=true" class="my-5 w-100"/>
 
 <div class="my-10 grid grid-cols-[40px,1fr] w-min gap-y-4 mx-auto">
   <radix-icons-github-logo class="opacity-50"/>

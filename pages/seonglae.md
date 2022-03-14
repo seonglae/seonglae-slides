@@ -8,7 +8,7 @@ background:
 
 
 
-<img src="https://github.com/seonglae/seonglae/raw/release/seongland.gif" class="w-200 mx-auto"/>
+<img src="https://github.com/seonglae/seonglae/blob/main/seongland.gif?raw=true" class="w-200 mx-auto"/>
 
 
 <div class="grid w-80 mx-auto mt-6" style="font-weight: bold">

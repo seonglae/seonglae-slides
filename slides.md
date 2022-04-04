@@ -13,3 +13,7 @@ src: ./pages/stacks.md
 ---
 src: ./pages/info.md
 ---
+
+---
+src: ./pages/spotify.md
+---

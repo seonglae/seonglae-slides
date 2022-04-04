@@ -3,8 +3,6 @@ title: Information
 layout: center
 ---
 
-
-
 <div class="grid w-40 mx-auto mb-10">
 <img src="https://storage.googleapis.com/seonglae/photo/personal/2022/round/far.png" class="rounded-full"/>
 </div>

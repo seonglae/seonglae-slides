@@ -19,7 +19,3 @@ layout: center
   <radix-icons-notion-logo class="opacity-50"/>
   <div><a href="https://doc.seongland.com" target="_blank">Seongland</a></div>
 </div>
-
-<!--
-sadsad
--->

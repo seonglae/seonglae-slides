@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@iconify-json/radix-icons': ^1.1.3
+  '@iconify-json/radix-icons': ^1.1.4
   '@slidev/cli': 0.33.1
   '@slidev/theme-default': '*'
   '@slidev/theme-seriph': '*'
@@ -12,7 +12,7 @@ dependencies:
   '@slidev/theme-seriph': 0.19.1
 
 devDependencies:
-  '@iconify-json/radix-icons': 1.1.3
+  '@iconify-json/radix-icons': 1.1.4
 
 packages:
 
@@ -70,8 +70,8 @@ packages:
       '@iconify/types': 1.1.0
     dev: false
 
-  /@iconify-json/radix-icons/1.1.3:
-    resolution: {integrity: sha512-I0ApFKi850TeuSf+kEY6r/N4exTbhP85oOC7Sv1wsIMdUIafYzliMhv0wZnQVUdfsd50p9uQ9w8d0QkYxEMZiw==}
+  /@iconify-json/radix-icons/1.1.4:
+    resolution: {integrity: sha512-0ez4Hm/4Qq/4phwusW9nFL+DoClpFT0onE0PxestInWDXaPb1t1HMm7I6CAGGSTfnsn24c6/P4xSpJCXBwGVvw==}
     dependencies:
       '@iconify/types': 1.1.0
     dev: true

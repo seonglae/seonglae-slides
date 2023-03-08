@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   '@iconify-json/radix-icons': ^1.1.5
@@ -224,7 +224,7 @@ packages:
       resolve-global: 1.0.0
       shiki: 0.10.1
       unocss: 0.45.1_vite@3.0.4
-      unplugin-icons: 0.14.8_1c41187ff6699a8aeede5ef0ec3c47fb
+      unplugin-icons: 0.14.8_drarq77wngniv3w6l3yoypch7m
       unplugin-vue-components: 0.21.2_vite@3.0.4+vue@3.2.37
       vite: 3.0.4
       vite-plugin-remote-assets: 0.3.0_vite@3.0.4
@@ -2660,7 +2660,7 @@ packages:
     engines: {node: '>= 0.8'}
     dev: false
 
-  /unplugin-icons/0.14.8_1c41187ff6699a8aeede5ef0ec3c47fb:
+  /unplugin-icons/0.14.8_drarq77wngniv3w6l3yoypch7m:
     resolution: {integrity: sha512-YxLC0Uxec+ayl8ju3CXmRX4Jg7IF8Tu2cRyq/okXwMK6fM140SPae332ByTlul1E/I7I0PXYSVVn8SlGunM/2g==}
     peerDependencies:
       '@svgr/core': '>=5.5.0'

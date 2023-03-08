@@ -16,6 +16,8 @@ layout: center
   <span><a href="https://github.com/seonglae" target="_blank">seonglae</a></span>
   <radix-icons-twitter-logo class="opacity-50"/>
   <span><a href="https://twitter.com/seonglaeC" target="_blank">SeonglaeC</a></span>
-  <radix-icons-notion-logo class="opacity-50"/>
-  <div><a href="https://doc.seongland.com" target="_blank">Seongland</a></div>
+  <radix-icons-shadow class="opacity-50"/>
+  <div><a href="https://seongland.com" target="_blank">Seongland</a></div>
+  <radix-icons-drag-handle-vertical class="opacity-50"/>
+  <div><a href="https://threetrees.cloud" target="_blank">Threetrees</a></div>
 </div>

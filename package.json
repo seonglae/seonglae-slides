@@ -10,7 +10,7 @@
     "@slidev/cli": "0.42.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "postcss": "^8.4.24"
+    "postcss": "^8.4.25"
   },
   "devDependencies": {
     "@iconify-json/radix-icons": "^1.1.10",

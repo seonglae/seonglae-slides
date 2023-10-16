@@ -5,18 +5,18 @@ specifiers:
   '@slidev/cli': 0.43.7
   '@slidev/theme-default': '*'
   '@slidev/theme-seriph': '*'
-  playwright-chromium: ^1.38.1
+  playwright-chromium: ^1.39.0
   postcss: ^8.4.31
 
 dependencies:
-  '@slidev/cli': 0.43.7_btmbf4n3vh6nas56owxf6w62du
+  '@slidev/cli': 0.43.7_h77zw2bl3ye3dx3fx6eqovmo44
   '@slidev/theme-default': 0.21.2
   '@slidev/theme-seriph': 0.21.3
   postcss: 8.4.31
 
 devDependencies:
   '@iconify-json/radix-icons': 1.1.11
-  playwright-chromium: 1.38.1
+  playwright-chromium: 1.39.0
 
 packages:
 
@@ -750,7 +750,7 @@ packages:
       picomatch: 2.3.1
     dev: false
 
-  /@slidev/cli/0.43.7_btmbf4n3vh6nas56owxf6w62du:
+  /@slidev/cli/0.43.7_h77zw2bl3ye3dx3fx6eqovmo44:
     resolution: {integrity: sha512-6JVo/KZUkl2sw5S2QpvD2eKgyfJzvQwUED4FhlBc5LHT4EPXKzRwHQ7fqI31tDp97KlmsKniosCYD9TMYnjrRQ==}
     engines: {node: '>=18.0.0'}
     hasBin: true
@@ -799,7 +799,7 @@ packages:
       open: 8.4.2
       pdf-lib: 1.17.1
       plantuml-encoder: 1.4.0
-      playwright-chromium: 1.38.1
+      playwright-chromium: 1.39.0
       postcss-nested: 6.0.1_postcss@8.4.31
       prismjs: 1.29.0
       prompts: 2.4.2
@@ -3776,16 +3776,16 @@ packages:
     resolution: {integrity: sha512-sxMwpDw/ySY1WB2CE3+IdMuEcWibJ72DDOsXLkSmEaSzwEUaYBT6DWgOfBiHGCux4q433X6+OEFWjlVqp7gL6g==}
     dev: false
 
-  /playwright-chromium/1.38.1:
-    resolution: {integrity: sha512-97Y6+lN3yOETy/yPQK+LqSCBdldLu5Rkm+Tnj2oGQfcbC5P8R3eWund7GxWqiYFnq0GLwZZ8EnhiBShKnCiVjg==}
+  /playwright-chromium/1.39.0:
+    resolution: {integrity: sha512-0WVmvn9ppPbcyb2PQherIpzsvJlyjqziCZiAiexTEYSz8k6/+/3wljmFaMRMP1lcv2xKyHDn9yWd/lHb7IzYyA==}
     engines: {node: '>=16'}
     hasBin: true
     requiresBuild: true
     dependencies:
-      playwright-core: 1.38.1
+      playwright-core: 1.39.0
 
-  /playwright-core/1.38.1:
-    resolution: {integrity: sha512-tQqNFUKa3OfMf4b2jQ7aGLB8o9bS3bOY0yMEtldtC2+spf8QXG9zvXLTXUeRsoNuxEYMgLYR+NXfAa1rjKRcrg==}
+  /playwright-core/1.39.0:
+    resolution: {integrity: sha512-+k4pdZgs1qiM+OUkSjx96YiKsXsmb59evFoqv8SKO067qBA+Z2s/dCzJij/ZhdQcs2zlTAgRKfeiiLm8PQ2qvw==}
     engines: {node: '>=16'}
     hasBin: true
 

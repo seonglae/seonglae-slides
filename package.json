@@ -13,7 +13,7 @@
     "postcss": "^8.4.31"
   },
   "devDependencies": {
-    "@iconify-json/radix-icons": "^1.1.11",
+    "@iconify-json/radix-icons": "^1.1.12",
     "playwright-chromium": "^1.40.0"
   }
 }

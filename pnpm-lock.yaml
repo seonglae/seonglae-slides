@@ -20,8 +20,8 @@ dependencies:
 
 devDependencies:
   '@iconify-json/radix-icons':
-    specifier: ^1.1.11
-    version: 1.1.11
+    specifier: ^1.1.12
+    version: 1.1.12
   playwright-chromium:
     specifier: ^1.40.0
     version: 1.40.0
@@ -751,8 +751,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: false
 
-  /@iconify-json/radix-icons@1.1.11:
-    resolution: {integrity: sha512-0FkllP6ghJakWHC0oQb+Jwg4W52mCDkV3JvVrXoyCPjG4kxX4wNhl8Ilk1dfT1EM+YvEXxrR2Mv63ySzVeYr9w==}
+  /@iconify-json/radix-icons@1.1.12:
+    resolution: {integrity: sha512-dT/6B6q0w+gmtMlBm6k2LtgwdTZmE3XmU+dgxXggFe/0Zm6UkC+LsJMbLDcGzqvgZ9eal++G7CZx/32SzCBePA==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

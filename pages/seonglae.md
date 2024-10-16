@@ -23,6 +23,6 @@ background:
   <img src="/round.png" class="h-8">
   <div class="ml-3 flex flex-col text-left">
     <div><b>Seong</b>Land</div>
-    <div class="text-sm opacity-50">Alan Jo</div>
+    <div class="text-sm opacity-50">Seonglae Cho</div>
   </div>
 </div>
